@@ -5,11 +5,11 @@ Repository with details and files regarding the sandbox of the **H2020 FISHY** p
 
 # Sandbox Architecture
 
-![alt text](https://github.com/lewisfelix/FISHY-Sandbox/blob/main/Sandbox_v1.png?raw=true)
-
-This picture presents a first proposal for the design of the FISHY sandbox. The purpose of this sandbox is to provide a virtual environment capable of supporting the execution of FISHY components and other relevant functions, such as VNFs developed during the project lifetime.
+The picture below presents a first proposal for the design of the FISHY sandbox. The purpose of this sandbox is to provide a virtual environment capable of supporting the execution of FISHY components and other relevant functions, such as VNFs developed during the project lifetime.
 
 The sandbox may be downlodaded and installed locally by interested partners, and will support development, testing  and integration activities of FISHY components into a common test platform.
+
+![alt text](https://github.com/lewisfelix/FISHY-Sandbox/blob/main/Sandbox_v1.png?raw=true)
 
 As it can be seen in the picture, the first version of the sandbox will be provided as a set of different domains. One of the domains will host the FISHY control services (e.g., the Trust & Incident manager, the Security and Certification Management, and the Intent-based Resilience Orchestrator & Dashboard). Two additional domains will provide the abstraction of an NFVI (i.e., the sandox includes a representation of two ICT infrastructures).
 
